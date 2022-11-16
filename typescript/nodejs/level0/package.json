@@ -1,0 +1,11 @@
+{
+  "name": "level0",
+  "version": "1.0.0",
+  "description": "level 0 of programming Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Basatxu soft",
+  "license": "ISC"
+}
